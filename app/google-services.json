@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205096546761",
+    "firebase_url": "https://smarthomepremium-54ecc.firebaseio.com",
+    "project_id": "smarthomepremium-54ecc",
+    "storage_bucket": "smarthomepremium-54ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205096546761:android:dcd3bb3f551ce818",
+        "android_client_info": {
+          "package_name": "com.example.ryansetiagi.smarthomepremium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205096546761-56vpek6q7ol9fist6lfpcvjrvbcvhv00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryansetiagi.smarthomepremium",
+            "certificate_hash": "5e3d3c028e208664651ebca33a122fd580187cd4"
+          }
+        },
+        {
+          "client_id": "205096546761-9qd6ar03noc7k0pdgd2t5vbpgj3dftan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVbBxVDlMuTsQSTFbIgFA1IQT3kiTnzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205096546761-9qd6ar03noc7k0pdgd2t5vbpgj3dftan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
